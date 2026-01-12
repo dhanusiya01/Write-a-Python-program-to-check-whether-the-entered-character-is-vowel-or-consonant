@@ -1,0 +1,1 @@
+# Write-a-Python-program-to-check-whether-the-entered-character-is-vowel-or-consonant
